@@ -2,4 +2,4 @@ def holiday_greeting(holiday="Mother's Day", nameto="Mom", namefrom="Your Favori
   "Happy #{holiday}, #{nameto}! - From #{namefrom}"
 end
 
-holiday_greeting("Fourth of July", Beyonce, )
+holiday_greeting("Fourth of July", Beyonce, Jay-Z)
